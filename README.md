@@ -10,7 +10,6 @@ These are some points we'll might be able to go over:
 * Interacting with the UE4 ecosystem
 * The architecture of the authoring tools and an average application made in UE4
 * Basics of programming application behavior in Blueprints
-
 * Jump to C++ to make UE4 really do your bidding
 * Using UE4 build and project configuration tools
 * Using the UE4 specific standard library
